@@ -8,6 +8,8 @@ sources:
 tags: [platform, product, saas]
 related:
   - wiki/sources/owngo-platform-architecture-v1.0.md
+  - wiki/registry/ai-champion-competition-2026.md
+  - wiki/sources/owngo-submission-video-script-v0.8.md
 ---
 
 # OwnGo Platform
@@ -60,6 +62,11 @@ related:
 ## 상태 이력
 
 - 2026-04-18 — 설계 단계 (v1.0 아키텍처 설계서 접수)
+- 2026-04-18 — [인공지능 챔피언 대회 2026](ai-champion-competition-2026.md) 출품 준비 (제출 영상 스크립트 v0.8 작성 중, 마감 2026-04-24)
+
+## 병행 활동
+
+- **외부 대회 출품**: [인공지능 챔피언 대회 2026](ai-champion-competition-2026.md) 참가. 제출 영상은 §3(아이디어·데모)에서 gRPC 커넥터와 하네스 3중 제어를 시연하도록 구성 → [sources/owngo-submission-video-script-v0.8.md](../sources/owngo-submission-video-script-v0.8.md)
 
 > [!gap]
-> 아직 릴리스 일정, 초기 타겟 OSS(첫 커넥터), 팀 역할 분담 등은 본 문서만으로 확정되지 않음. 후속 문서 확보 필요.
+> 아직 릴리스 일정, 초기 타겟 OSS(첫 커넥터), 팀 역할 분담(대회 스크립트상 역할과 제품 조직 역할의 차이), 대회 트랙 선택은 본 문서만으로 확정되지 않음. 후속 문서 확보 필요.
